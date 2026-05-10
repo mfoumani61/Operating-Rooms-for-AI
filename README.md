@@ -17,7 +17,7 @@ The supplementary material provides detailed computational results that support 
 ## Related Paper
 
 The main paper is available at:  
-[[DOI or the conference paper link here if/when available]](https://link.springer.com/)
+[[DOI of the ISBDAI 2026 conference paper will be available here]](https://link.springer.com/)
 
 In the paper, this supplementary file is referenced as follows:
 
