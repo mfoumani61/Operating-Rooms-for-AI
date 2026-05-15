@@ -1,0 +1,59 @@
+Figure 1. Conceptual framework for systematic change management and AI implementation in operating rooms, consisting of five sequential phases: 
+challenge/strategy identification, BWM‑based prioritization, DEA‑based strategy evaluation, budget‑constrained optimization, and implementation roadmap development.
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PHASE 1: IDENTIFICATION STAGE                   │
+│  ┌───────────────────┐    ┌─────────────────────────────────┐       │
+│  │ Literature Review │    │ Expert Consultation (Surgeons + │       │
+|  │                   │    │                    OR Managers) │       │
+│  └───────────────────┘    └─────────────────────────────────┘       │
+│             │                                      │                │
+│             └───────────────────┬──────────────────┘                │
+│                                 │                                   │
+│             ┌─────────────────────────────────────┐                 │
+│             │ Identify AI Challenges & Mitigation Strategies        │
+│             │ (Classified: Pre‑/Intra‑/Post‑operative)              │
+│             └─────────────────────────────────────┘                 │
+└─────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PHASE 2: PRIORITIZATION STAGE                   │
+│             ┌─────────────────────────────────────┐                 │
+│             │ Best–Worst Method (BWM)             │                 │
+│             │ • Select Best&Least Critical Challenge                │
+│             │ • Compute Challenge Weights         │                 │
+│             │ • Inconsistency Ratio < 0.1 (Valid) │                 │
+│             └─────────────────────────────────────┘                 │
+└─────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PHASE 3: EVALUATION STAGE                       │
+│             ┌─────────────────────────────────────┐                 │
+│             │ Data Envelopment Analysis (DEA)     │                 │
+│             │ • Input‑oriented CCR Model          │                 │
+│             │ • Evaluate Strategy Efficiency Score│                 │
+│             │ • Rank Strategies per Challenge     │                 │
+│             └─────────────────────────────────────┘                 │
+└─────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PHASE 4: OPTIMIZATION STAGE                     │
+│             ┌─────────────────────────────────────┐                 │
+│             │ Binary Integer Linear Programming    │                │
+│             │ • Maximize Total Efficiency          │                │
+│             │ • Budget Constraint ($300,000)       │                │
+│             │ • Select One Strategy per Challenge  │                │
+│             └─────────────────────────────────────┘                 │
+└─────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PHASE 5: IMPLEMENTATION STAGE                   │
+│             ┌─────────────────────────────────────┐                 │
+│             │ Optimal Strategy Portfolio          │                 │
+│             │ • Roadmap for OR Readiness          │                 │
+│             │ • Safer & Sustainable AI Adoption   │                 │
+│             └─────────────────────────────────────┘                 │
+└─────────────────────────────────────────────────────────────────────┘
