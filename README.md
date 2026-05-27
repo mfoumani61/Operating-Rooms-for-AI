@@ -36,7 +36,7 @@ These weights were derived from expert judgments (seven senior surgeons and an o
 
 please cite the original research paper if you use this supplementary material:
 
-> Hamid, M., Vahedi-Nouri, B., Foumani, M., Zhuoqi, Z. Preparing Operating Rooms for Artificial Intelligence: A Systematic Change Management Framework. 2026 5th International Symposium on Big Data and Artificial Intelligence: For Education Transformation, pp.1-10.
+> Zipan, X., Hamid, M., Vahedi-Nouri, B., Foumani, M., Zhuoqi, Z. Preparing Operating Rooms for Artificial Intelligence: A Systematic Change Management Framework. 2026 5th International Symposium on Big Data and Artificial Intelligence: For Education Transformation, pp.1-10.
 
 ## Contact
 
