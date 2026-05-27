@@ -5,7 +5,7 @@
 This repository contains the supplementary file for the research paper:
 
 > "Preparing Operating Rooms for Artificial Intelligence: A Systematic Change Management Framework" 
-> Authors: Mahdi Hamid, Behdin Vahedi-Nouri, Mehdi Foumani, ZENG Zhuoqi 
+> Authors: Xiong Zipan, Mahdi Hamid, Behdin Vahedi-Nouri, Mehdi Foumani, ZENG Zhuoqi 
 > Conference: 2026 5th International Symposium on Big Data and Artificial Intelligence: For Education Transformation, May 26-28, 2026, The Hong Kong Polytechnic University
 
 The supplementary material provides detailed computational results that support the findings reported in the main manuscript.
@@ -39,7 +39,8 @@ please cite the original research paper if you use this supplementary material:
 > Hamid, M., Vahedi-Nouri, B., Foumani, M., Zhuoqi, Z. Preparing Operating Rooms for Artificial Intelligence: A Systematic Change Management Framework. 2026 5th International Symposium on Big Data and Artificial Intelligence: For Education Transformation, pp.1-10.
 
 ## Contact
- 
-Behdin Vahedi-Nouri <b.vahedi@ut.ac.ir>
+
 Mehdi FOUMANI <mehdi.foumani@hibiuh.edu.cn>
+Behdin Vahedi-Nouri <b.vahedi@ut.ac.ir>
+
 
